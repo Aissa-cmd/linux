@@ -1,0 +1,5 @@
+# VIM
+---
+
+## Insert mode
+
